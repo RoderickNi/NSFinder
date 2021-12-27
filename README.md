@@ -1,5 +1,6 @@
 # NSFinder（Nonsynonymous Substitutions Finder）
 A small tool for identifying nonsynonymous amino acid substitutions from vcf files (Freebayes output)    
+Freebayes: https://github.com/freebayes/freebayes
 
 
 # Download
