@@ -49,10 +49,10 @@ C:\Users\XXX\NSFinder>python NASFinder.py
 #  GNU General Public License for more details.
 
 <Enter q to Quit!>
-#  Please input the path of reference sequence file (.fasta): C:\Users\XXX\NSFinder\Test_reference_seq.fasta
-#  Please input the path of SNP file (.vcf): C:\Users\XXX\NSFinder\Test_vcf.vcf
+#  Please input the path of reference sequence file (.fasta): C:\Users\XXX\NSFinder\TestReferenceSeq.fasta
+#  Please input the path of SNP file (.vcf): C:\Users\XXX\NSFinder\TestVcf.vcf
 #  Frequency greater than or equal to : 0.005
-#  Result Output: C:\Users\XXX\NSFinder\Test_result.tab
+#  Result Output: C:\Users\XXX\NSFinder\TestResult.tab
 
 <Enter q to Quit!>
 #  Please input the path of reference sequence file (.fasta): q
