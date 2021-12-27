@@ -1,19 +1,19 @@
-# NSFinder
-A small tool for identifying nonsynonymous amino acid substitutions from vcf files (output of Freebayes)    
-NSFinder : Nonsynonymous Substitutions Finder
+# NSFinder（Nonsynonymous Substitutions Finder）
+A small tool for identifying nonsynonymous amino acid substitutions from vcf files (Freebayes output)    
+
 
 # Download
 ### Enter the following command in cmd: 
 ```
-C:\Users\XXX\NSFinder>git clone https://github.com/RoderickNi/NSFinder.git
+C:\Users\XXX>git clone https://github.com/RoderickNi/NSFinder.git
 ```
 
 # How to use
-### FIRST: Enter the following command in cmd:    
+### 【FIRST】 Enter the following command in cmd:    
 ```
 C:\Users\XXX\NSFinder>python NASFinder.py
 ```
-### SECOND: Enter the appropriate file path based on the input prompt：
+### 【SECOND】 Enter the appropriate file path based on the input prompt：
 ```
  __          __         _                                       _
  \ \        / /        | |                                     | |
@@ -51,7 +51,7 @@ C:\Users\XXX\NSFinder>python NASFinder.py
 <Enter q to Quit!>
 #  Please input the path of reference sequence file (.fasta): C:\Users\XXX\NSFinder\TestReferenceSeq.fasta
 #  Please input the path of SNP file (.vcf): C:\Users\XXX\NSFinder\TestVcf.vcf
-#  Frequency greater than or equal to : 0.005
+#  Frequency greater than or equal to: 0.005
 #  Result Output: C:\Users\XXX\NSFinder\TestResult.tab
 
 <Enter q to Quit!>
@@ -59,5 +59,6 @@ C:\Users\XXX\NSFinder>python NASFinder.py
 THANKS FOR USING NASFinder!
 ```
 # Additional information
-Frequency greater than or equal to : (Only nonsynonymous substitutions greater than or equal to this frequency are displayed.)    
+Please input the path of reference sequence file (.fasta): (Uppercase indicates exon; Lowercase indicates non-exon)    
+Frequency greater than or equal to：(Only nonsynonymous substitutions greater than or equal to this frequency are displayed.)    
 
