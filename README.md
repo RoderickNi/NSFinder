@@ -59,6 +59,6 @@ C:\Users\XXX\NSFinder>python NASFinder.py
 THANKS FOR USING NASFinder!
 ```
 # Additional information
-Please input the path of reference sequence file (.fasta): (Uppercase indicates exon; Lowercase indicates non-exon)    
+Please input the path of reference sequence file (.fasta): (Uppercase indicates coding region; Lowercase indicates non-coding region)    
 Frequency greater than or equal to：(Only nonsynonymous substitutions greater than or equal to this frequency are displayed.)    
 
