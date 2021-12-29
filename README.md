@@ -57,7 +57,7 @@ C:\Users\XXX\NSFinder>python NASFinder.py
 
 <Enter q to Quit!>
 #  Please input the path of reference sequence file (.fasta): q
-THANKS FOR USING NASFinder!
+THANKS FOR USING NSFinder!
 ```
 # Additional information
 Please input the path of reference sequence file (.fasta): (Uppercase indicates coding region; Lowercase indicates non-coding region)    
