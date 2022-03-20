@@ -61,5 +61,5 @@ THANKS FOR USING NSFinder!
 ```
 # Additional information
 Please input the path of reference sequence file (.fasta): (Uppercase indicates coding region; Lowercase indicates non-coding region)    
-Frequency greater than or equal to：(Only nonsynonymous substitutions greater than or equal to this frequency are passed.)    
+Frequency greater than or equal to：(The frequency of nonsynonymous substitutions greater than or equal to <input> are passed.)    
 
