@@ -12,7 +12,7 @@ C:\Users\XXX>git clone https://github.com/RoderickNi/NSFinder.git
 # How to use
 ### 【FIRST】 Enter the following command in cmd:    
 ```
-C:\Users\XXX\NSFinder>python NASFinder.py
+C:\Users\XXX\NSFinder>python NSFinder.py
 ```
 ### 【SECOND】 Enter the appropriate file path based on the input prompt：
 ```
